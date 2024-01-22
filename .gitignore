@@ -1,0 +1,23 @@
+# Compile
+target/
+
+# IntelliJ
+.idea
+*.iws
+*.iml
+*.ipr
+
+# VS Code
+.vscode/
+
+# STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# System
+.DS_Store
